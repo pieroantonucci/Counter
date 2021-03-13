@@ -11,3 +11,30 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+body{
+    background-color: black;
+}
+
+.fa-stopwatch{
+    color: white;
+}
+
+.card{
+    margin-top: 30px;
+    background-color: black;
+    border-radius: 10px;
+    width: 150px;
+    height: 200px;
+    border-color: grey;
+    margin-left: auto;
+    color: white;
+    font-size: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+#buttons{
+    justify-content: center;
+    margin-top: 30px;
+}
